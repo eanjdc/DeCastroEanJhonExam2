@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "101921110421",
+    "firebase_url": "https://for-4itf-eb16e.firebaseio.com",
+    "project_id": "for-4itf-eb16e",
+    "storage_bucket": "for-4itf-eb16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101921110421:android:1ad2fb48abd331ba",
+        "android_client_info": {
+          "package_name": "com.decastro.ean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101921110421-25e452jql14iktnee04353mfvjg7l672.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbSg1NNxd9nrguq8Bbs2SvP2TvQ32s0Pw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
